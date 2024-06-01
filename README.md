@@ -31,7 +31,7 @@
 | JavaScript | React、jQuery | 2年 |
 | C# | Blazor、.NET | 6ヶ月 |
 | Java | Spring、Android | 3ヶ月 |
-| Python | Django、FastAPI | 自己学習・個人開発のみ |
+| Python | Django、FastAPI | 学習、個人開発のみ |
 
 ## 経歴
 
