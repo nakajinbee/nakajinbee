@@ -13,7 +13,7 @@
 
 ## 過去のLT資料
 - [業務の自動化について](https://www.canva.com/design/DAF0mJs3Bmo/g-M48vuogSrduVCfx6WaiQ/view?utm_content=DAF0mJs3Bmo&utm_campaign=designshare&utm_medium=link&utm_source=editor)　
-- [メンタルケアについて]([https://www.canva.com/design/DAFj_1KlFA4/Qc8etYBwe-tWBs0UGwHFkQ/edit](https://www.canva.com/design/DAFj_1KlFA4/GFg7WTvC-A8QqUH6jZULoQ/view?utm_content=DAFj_1KlFA4&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+- [メンタルケアについて](https://www.canva.com/design/DAFj_1KlFA4/GFg7WTvC-A8QqUH6jZULoQ/view?utm_content=DAFj_1KlFA4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 
