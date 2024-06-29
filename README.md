@@ -12,6 +12,7 @@
 大学時代にプログラミングの面白さに気づき独学で勉強を始めました。大学卒業後、SIerに就職して主に業務システムの開発業務に従事してきました。新しいことを知るのが好きなので、今後も自分が未経験の領域に挑戦・勉強していきたいと考えています。
 
 ## 過去のLT資料
+- [便利なツールを自作しよう](https://www.canva.com/design/DAGJO9LZyPc/NQePkibrM6Ra2Ukrw3np_Q/view?utm_content=DAGJO9LZyPc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [業務の自動化について](https://www.canva.com/design/DAF0mJs3Bmo/g-M48vuogSrduVCfx6WaiQ/view?utm_content=DAF0mJs3Bmo&utm_campaign=designshare&utm_medium=link&utm_source=editor)　
 - [メンタルケアについて](https://www.canva.com/design/DAFj_1KlFA4/GFg7WTvC-A8QqUH6jZULoQ/view?utm_content=DAFj_1KlFA4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
